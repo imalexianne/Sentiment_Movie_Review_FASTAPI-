@@ -1,11 +1,22 @@
 # Movie-Review_Sentimental_Analysis APP using FASTAPI 
 
+![Project Image](images/movie picture.png)
+
 📚 **Description**
 =================
 
 This is an innovative project aimed at enhancing sentiment analysis within the realm of movie reviews. Leveraging a meticulously trained Hugging Face model, the system offers precise categorization of reviews into positive, negative, or neutral sentiments. Developed with FastAPI and adhering to Docker best practices, the repository provides comprehensive guidelines and resources for seamless integration and deployment. Whether you're a developer, researcher, or enthusiast, explore this repository to delve into cutting-edge technology applications and gain insights into sentiment analysis methodologies tailored for the entertainment industry.
 
-📚 SUMMARY TABLE 📚
+**Training results:**
+![Training results](images/training.png)
+
+**API in execution**
+![API in execution](images/goodmovie.png)
+
+**API response**
+![API response*](images/goodgood.png)
+
+📚 **SUMMARY TABLE** 📚
    =================
 
 
@@ -37,9 +48,6 @@ The Two commands are of the same structure
 1.Activate the python environment
 2.Upgrade pip to it current version
 3.install the requirements located in requirements.txt: You should be at the root of your env
-
-
-
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
