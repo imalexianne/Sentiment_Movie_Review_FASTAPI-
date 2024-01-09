@@ -8,6 +8,7 @@
 This is an innovative project aimed at enhancing sentiment analysis within the realm of movie reviews. Leveraging a meticulously trained Hugging Face model, the system offers precise categorization of reviews into positive, negative, or neutral sentiments. Developed with FastAPI and adhering to Docker best practices, the repository provides comprehensive guidelines and resources for seamless integration and deployment. Whether you're a developer, researcher, or enthusiast, explore this repository to delve into cutting-edge technology applications and gain insights into sentiment analysis methodologies tailored for the entertainment industry.
 
 **Training results**
+
 ![Training results](images/training.png)
 
 **API in execution**
